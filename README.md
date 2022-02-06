@@ -1,5 +1,5 @@
 <h1> 🙋‍♂️ Hi, I’m Cristian Sandoval</h1>
-👀 I’m interested in web development (Frontend and Backend)<br></>
+👀 I’m interested in web development<br></>
 🌱 I’m currently learning Frontend - React JS<br></>
 📫 Reach me on Linkedin: https://www.linkedin.com/in/cristiancsandoval/ 
 
