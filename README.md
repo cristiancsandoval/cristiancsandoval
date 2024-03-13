@@ -1,5 +1,5 @@
 <h1> 🙋‍♂️ Hi, I’m Cristian Sandoval</h1>
-Engineer, Frontend Developer with experience working on development projects using technologies such as React JS, Gatsby, and Next Js. Skilled in creating websites and web applications using state management technologies such as React Query, Redux Thunk, and Zustand, while adhering to best development and programming practices. I stand out for my ability to efficiently solve problems and communicate effectively.
+Engineer, Frontend Developer in React with experience in creating functional and responsive web applications. Specialized in web page development using React based technologies such as Next JS and Gatsby JS, following best development and programming practices. Advanced skills in state management with Redux, React Query, and Zustand. Strong knowledge in HTML and styling with CSS, SASS, and Tailwind. Strong problem-solving and communication abilities.
 
 <!---
 cristiancsandoval/cristiancsandoval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
